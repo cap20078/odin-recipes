@@ -1,1 +1,2 @@
 # odin-recipes
+This is a project based on recipe for a South Indian dish called as 'Upma', famously known as Uppittu across Karnataka.It is one of my favourite dish for breakfast which is very tasty,healthy and fills you stomach for hours which is why it is also called 'concrete'.
